@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="app_development_boot_camp_may_2026"
+        android:label="MExpense"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
